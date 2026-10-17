@@ -62,7 +62,7 @@
 
 <img src="docs/github/preview-settings.png" width="900" alt="设置界面">
 
-### 故障特效 · 边框特写
+### 故障特效
 
 碳纤维边框近距离演示 · 通道分离的真实红蓝色差（左：RO姬 · 黑 / 右：吹雪 · 白）
 
