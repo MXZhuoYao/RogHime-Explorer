@@ -2,7 +2,7 @@
 
 # ROG Explorer Theme
 
-**把 Windows 11 的资源管理器，变成 ROG 的样子。**
+**支持Windows 10/11 的资源管理器主题边框**
 
 零注入 · 外置覆盖层 · 双主题 · 一键还原
 
@@ -56,7 +56,7 @@
 |:---:|:---:|
 | <img src="docs/github/preview-roghime.png" width="420"> | <img src="docs/github/preview-fubuki.png" width="420"> |
 
-| 碳纤维边框 | 故障特效（仅边框抖动）|
+| 碳纤维边框 | 故障特效 |
 |:---:|:---:|
 | <img src="docs/github/preview-carbon.png" width="420"> | <img src="docs/github/demo-glitch.png" width="420"> |
 
@@ -75,7 +75,7 @@
 
 **方式一 · 图形安装（推荐）**
 
-下载 `RogHime-Setup-v2.2.0.exe`，双击 → 管理员授权 → 向导走完。
+下载 `RogHime-Setup-v2.2.0.exe`，双击安装
 
 **方式二 · 便携安装**
 
@@ -130,7 +130,7 @@ ExplorerBg/          第三方外壳扩展（MIT）
 
 - [ExplorerBgTool](https://github.com/Maplespe/ExplorerBgTool) — 文件列表背景扩展（MIT）
 - [Windows 11 File Explorer Styler](https://github.com/m417z/winlhawk-mods) — 主文件夹背景支持
-- [simple-icons](https://simpleicons.org/) — ROG 之眼图标（CC0）
+- [simple-icons](https://simpleicons.org/) — ROG图标（CC0）
 - AsusRog 字体 — 版权归华硕所有，仅供个人美化使用
 
 ---
